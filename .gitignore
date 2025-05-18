@@ -78,8 +78,6 @@ logs/
 *.log[0-9]
 
 *.db
-*.sqlite
-*.sqlite3
 *.mdf
 *.ldf
 
